@@ -1,0 +1,8 @@
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\bin\Debug\PracticalWork7.exe.config
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\bin\Debug\PracticalWork7.exe
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\bin\Debug\PracticalWork7.pdb
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\obj\Debug\PracticalWork7.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\obj\Debug\PracticalWork7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\obj\Debug\PracticalWork7.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\obj\Debug\PracticalWork7.exe
+C:\Users\Den\source\repos\PracticalWork7\PracticalWork7\obj\Debug\PracticalWork7.pdb
